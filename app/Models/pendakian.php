@@ -19,6 +19,6 @@ class pendakian extends Model
 
     public function gunungs()
     {
-        return $this->hasMany(gunungs::class); 
+        return $this->belongsTo(pendakians::class); 
     }
 }
