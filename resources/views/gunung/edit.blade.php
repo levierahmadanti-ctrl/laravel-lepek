@@ -73,7 +73,7 @@
     </form>
 
     <br>
-    <a href="{{ route('gunung.index') }}">← Kembali</a>
+    <a href="{{ route('gunung.index') }}">← Kembalii</a>
 </div>
 
 </body>
